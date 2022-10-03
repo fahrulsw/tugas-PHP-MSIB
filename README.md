@@ -13,3 +13,7 @@
 <h3>Tugas 4 | Function & OOP</h3>
 
 <img src="https://user-images.githubusercontent.com/81398442/193411505-fbea531b-ac35-430d-b8b9-82b871a6d67d.png">
+
+<h3>Tugas 5 | Inheritence & Abstract Class</h3>
+
+<img src="https://user-images.githubusercontent.com/81398442/193620466-a8d3d9c1-07cf-4226-b93d-c82e466624b5.png">
